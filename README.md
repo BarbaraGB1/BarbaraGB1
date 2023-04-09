@@ -1,8 +1,8 @@
 
 ![Cabecera Bárbara García Bolaños](https://github.com/BarbaraGB1/BarbaraGB1/blob/main/B%C3%A1rbara%20Garc%C3%ADa%20Bola%C3%B1os.jpg)
 
-<p align="center">¡Hola!
-Bienvenido a mi página de Github.
+<p align="center"><h1>¡Hola!<br>
+Bienvenido a mi página de Github.</h1>
 </p>
 <!--
 ### Hi there 👋
