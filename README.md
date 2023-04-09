@@ -11,13 +11,19 @@ La verdad que adentrarme en este mundo no ha sido nada fácil, ¿Pero lo diverti
 Y así soy yo, aprendiendo cada día cosas nuevas y aplicando las viejas, haciendo de cada experiencia un apredizaje y una lección.<p>
 
   <p> <h2> ¿Quieres saber que tecnologías uso? </h2> </p>
-- ![image](https://user-images.githubusercontent.com/114087832/211209812-34341d37-9801-46c6-a987-7d801d292c6a.png)
-- ![image](https://user-images.githubusercontent.com/114087832/211209824-36a3f242-bb6e-49cc-a64b-8b677b4ba62a.png)
-- ![image](https://user-images.githubusercontent.com/114087832/211209844-1aeff05b-aad6-4433-a272-04f39b7f946e.png)
-- ![image](https://user-images.githubusercontent.com/114087832/211209847-741dccc9-b1b5-48ce-87d7-d0a29bcdc451.png)
-- ![image](https://user-images.githubusercontent.com/114087832/211209853-95c127c6-085c-4201-bc0b-94973105b13b.png)
-- ![image](https://user-images.githubusercontent.com/114087832/211209860-8545356b-2b27-48d4-b199-2bf3dc5afc79.png)
-  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C-3EB5FF?style=for-the-badge&logo=C&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
   
 <!--
 ### Hi there 👋
